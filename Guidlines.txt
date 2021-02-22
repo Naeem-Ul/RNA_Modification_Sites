@@ -1,0 +1,26 @@
+Requirements:
+
+We have tested our code on the following platform.
+Python 3.6
+Tensorflow 1.7.0
+Keras 2.2.5
+
+
+Testing the Model:
+
+The trained models are saved in the ¡°output¡± folder
+Put the test files in the folder named  ¡°./folds¡± in npy format
+Run the Test.py file for testing.
+The test results are generated in the ¡°output¡± folder
+
+
+Training the Model:
+
+To train the model on your dataset, first generate the Training, Validation, and Testing files using the file data_generate.py
+Run the Gen_seq_clas_Train.py file to train the model.
+The trained model weights will be saved in the ¡°output¡± folder
+Test the model using the above approach
+
+
+
+
